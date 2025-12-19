@@ -1,0 +1,1 @@
+export const IMAGE_BASE_URL = "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-unselect-gallery-3-202509?wid=5120&hei=2880&fmt=webp&qlt=90&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxdFgrSXpWVEhWaW9YTGlWRHFoSHU0OFQ0cUNjaUhCcnU4THJpVHdLYjhlbGd2S3NaRzcrU0dmYjNHTUFiMnlsWFUxSlgrVWMrMzU1OXo2c2JyNjJZTGk5WmVzZnYxbzBuWDNWODBzL3BwaFk&traceId=1";
